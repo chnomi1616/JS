@@ -1,2 +1,1 @@
-console.log("Hello GitHub!");
-let name ="noman"
+console.log('Hello World');

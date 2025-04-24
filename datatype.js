@@ -8,4 +8,4 @@ if (age < 18) {
 } else {
     console.log(`${name} is an adult.`);
 }
-console.log(`The type of name is ${typeof name}`);
+console.log(`The type of name is ${typeof name}`)
